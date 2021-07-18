@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TawalMc😎</h1>
 <h3 align="center">A passionate software developer from Benin</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawalmc" alt="tawalmc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawalmc" alt="tawalmc" /></a> </p>
 
-- 🔭 I’m currently working on **Kotlin mobile app**
+- 🔭 I’m currently working on **IoT Development**
 
 - 🌱 I’m currently learning **Embedded System engineering**
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TawalMc](https://github.com/TawalMc)
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
+- 📝 I regularly publish articles on my blog [Tawal Dev Universe](https://tawaldevuniverse.vercel.app/)
 
-- 💬 Ask me about **C++, React, Kotlin, Software engineering**
+- 💬 Ask me about **C++, JavaScipt (React, Nodejs), Kotlin, IoT engineering**
 
 - 📫 How to reach me **alaotawaliou@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/TawalMc\portfolio](https://github.com/TawalMc\portfolio)
+- 📄 Know about my experiences on my [portfolio](https://github.com/TawalMc/portfolio)
 
 - ⚡ Fun fact **I like joke - play football and games - Read stories book**
 
