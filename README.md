@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tawaldevuniverse.vercel.app/" target="_blank">
-    <img width="100em" height="100em" src="https://github.com/TawalMc/tawaldevuniverse/blob/master/public/static/favicons/safari-pinned-tab.svg">
+    <img width="150em" height="150em" src="https://github.com/TawalMc/tawaldevuniverse/blob/master/public/static/favicons/safari-pinned-tab.svg">
   </a>
 </p
 
