@@ -34,7 +34,7 @@ I'm a software developer based in Abomey-Calavi (Bénin), specializing in buildi
   ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-0A1A2F?style=flat&logo=godot%20engine)
   
 <br/>
-#jnrowe
+My prefered zsh theme is jnrowe.
 <br/>
 
 <a href="https://github.com/TawalMc">
